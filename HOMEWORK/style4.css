@@ -1,0 +1,60 @@
+.button {
+    position: fixed;
+    left: 48%;
+    top:50%;
+    background-color:rgb(10, 60, 120);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    position: fixed;
+    left: 40%;
+    top:50%;
+    background-color:rgb(10, 60, 120);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button3 {
+    position: fixed;
+    left: 57.7%;
+    top:50%;
+    background-color:rgb(10, 60, 120);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1 {
+    position: fixed;
+    left: 28%;
+    top:50%;
+    background-color:rgb(10, 60, 120);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
